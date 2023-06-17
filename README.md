@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](https://www.typescriptlang.org/)
 
 Wrapper around [NSFWJS](https://github.com/infinitered/nsfwjs) to provide API.
-
+s
 ## Usage
 
 ### Docker
